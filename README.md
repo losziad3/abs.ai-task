@@ -1,6 +1,8 @@
 # absai
 
 A new Flutter project.
+Email:ziad@gmail.com
+Password:123456789
 
 ## Getting Started
 
